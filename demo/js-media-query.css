@@ -1,0 +1,10 @@
+
+.css {
+
+}
+
+@media screen and (min-width: 720px) {
+  .css {
+    background: #DDD;
+  }
+}
